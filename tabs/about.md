@@ -1,11 +1,12 @@
 ---
 title: About
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
+published: true
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+###Welcome to my blog! 
+
+My name is NoobSec. This is my new blog platform. My all posts can also be found at the below medium link-
+
+Medium: 0xnoobsec.medium.com
+
+I am a cyber security professional. Feel free to connect with me on [Linkedin](https://linkedin.com/in/noobsec).
